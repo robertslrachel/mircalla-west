@@ -2,4 +2,4 @@
 
 test repository - log of what music I am listening to 
 
-!(Stoneroses.jpg) 
+![The Stone Roses](Stoneroses.jpg) 
